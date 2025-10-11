@@ -2,6 +2,8 @@
 
 A diagnostic tool for analyzing Codename One libraries (.cn1lib files) to check if they meet Google's Android requirement for 16KB page size support.
 
+![Cn1lib Doctor Screenshot](https://github.com/user-attachments/assets/35b9ef7a-89d8-4771-9c21-d334d1772ff2)
+
 ## Overview
 
 Starting with Android 15, Google requires that all native libraries (.so files) support 16KB page sizes. This tool helps you diagnose whether a cn1lib file contains Android native libraries that do or don't meet this requirement.
